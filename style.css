@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding: border-box;
+}
+
+.siteHeader{
+background-color:rgb(175, 0, 0) ;
+height: 140px;
+color:white;
+padding: 16px;
+font-size: 2rem;
+}
+
+h1{
+    color:rgb(245, 215, 220);
+}
+.main{  
+    max-width: 80%;
+    margin: 16px auto;
+
+}
+ 
+.overskrift{
+    font-size: 15rem;
+}
